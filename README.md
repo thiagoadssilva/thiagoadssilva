@@ -1,4 +1,4 @@
-## Fala time me chamo Thiago, sou desenvolvedor a 4 anos venho trabalhando com desenvolvimento de software e sendo mais especifico trabalho com a ferramenta chamada 'Scriptcase', onde o backend dessa ferramenta é com a liguagem PHP, hoje estou atuando na empresa https://www.cmtech.com.br/site/2021/...
+### Fala time me chamo Thiago, sou desenvolvedor a 4 anos venho trabalhando com desenvolvimento de software e sendo mais especifico trabalho com a ferramenta chamada 'Scriptcase', onde o backend dessa ferramenta é com a liguagem PHP, hoje estou atuando na empresa https://www.cmtech.com.br/site/2021/...
 
 <hr>
 
@@ -18,10 +18,12 @@
 
 <hr>
 
-## Quadro Geral do github
+### Quadro Geral do github
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoadssilva&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoadssilva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Meu perfil:
+<hr>
 
-[![likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](<(https://www.linkedin.com/in/thiagojosedasilva/)>)
+### Meu perfil:
+
+[![likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagojosedasilva/)
