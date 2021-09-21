@@ -14,19 +14,13 @@
 ![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![reactnative](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 <hr>
 
 ## Quadro Geral do github
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoadssilva&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoadssilva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoadssilva&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoadssilva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Meu perfil:
 
