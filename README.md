@@ -15,9 +15,12 @@ Obrigado pela visita e bons códigos!</p>
 
 ## Formações:
 
-- Sou formado em 'Analise e desenvolvimento de sistemas'
-- Hoje estou estudando 'C# COMPLETO Programação Orientada a Objetos + Projetos'
-- Fazendo Pós-Graduação em 'Análise e Desenvolvimento de Programas'
+#### Unibratec -Recife
+ - Sou formado em 'Analise e desenvolvimento de sistemas'
+#### Udemy
+ - Hoje estou estudando 'C# COMPLETO Programação Orientada a Objetos + Projetos'
+#### Descomplica
+ - Fazendo Pós-Graduação em 'Análise e Desenvolvimento de Programas'
 
 ## Empresa que trabalho:
 
