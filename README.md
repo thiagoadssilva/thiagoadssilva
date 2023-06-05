@@ -18,7 +18,7 @@ Obrigado pela visita e bons códigos!</p>
 #### Unibratec -Recife
  - Sou formado em 'Analise e desenvolvimento de sistemas'
 #### Udemy
- - Hoje estou estudando 'C# COMPLETO Programação Orientada a Objetos + Projetos'
+ - C# COMPLETO Programação Orientada a Objetos + Projetos - Finalizado
 #### Descomplica
  - Fazendo Pós-Graduação em 'Análise e Desenvolvimento de Programas'
 
