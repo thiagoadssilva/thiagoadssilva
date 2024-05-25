@@ -20,8 +20,6 @@ Obrigado pela visita e bons códigos!</p>
 #### Udemy
  - ( FINALIZADO ) C# COMPLETO Programação Orientada a Objetos + Projetos
  - (ESTUDANDO) PHP do Zero a Maestria + 4 Projetos incríveis
-#### Descomplica
- - Fazendo Pós-Graduação em 'Análise e Desenvolvimento de Programas'
 
 ## Empresa que trabalho:
 
