@@ -24,7 +24,7 @@ Obrigado pela visita e bons códigos!</p>
 
 ## Empresa que trabalho:
 
-- [Website](https://www.cmtech.com.br/site/2021/) - Estou atualmente trabalhando na CmTech.
+- [Website](https://www.minsait.com/pt) - Estou atualmente trabalhando na Minsait.
 
 ## Tecnologias que atualmente trabalho:
 
