@@ -45,13 +45,11 @@ Obrigado pela visita e bons códigos!</p>
 
 ## Projetos Publicados
 
-http://awax.tfcoder.com/ <br>
+http://blog.tfcoder.com/ <br>
 http://sitetreinamentoyoutube.tfcoder.com/ <br>
 http://financeb7web.tfcoder.com/ <br>
 https://youtubehtmlcssjavascript.tfcoder.com/# <br>
 https://b7webhtmlcss.tfcoder.com/ <br>
-https://aniversario.tfcoder.com/ <br>
-http://scannerbook.tfcoder.com/ <br>
 https://imc.tfcoder.com/ <br>
 https://jogodamemoria.tfcoder.com/  <br>
 http://imc.tfcoder.com/ <br>
